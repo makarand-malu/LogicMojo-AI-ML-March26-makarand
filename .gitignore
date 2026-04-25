@@ -1,0 +1,5 @@
+.env
+venv/
+python_project_aiml_logicmojo/python_project_aiml_logicmojo_dataset/
+*.csv
+*.DS_Store
